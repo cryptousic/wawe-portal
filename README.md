@@ -1,6 +1,8 @@
 # WawePortal
 
-This project is modified from Buildspace project - https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b
+https://app.buildspace.so/projects
+
+This project is modified from first Buildspace project - Build a Web3 App with Solidity + Ethereum Smart Contracts
 
 
 Run local blockchain
