@@ -1,4 +1,4 @@
-# WawePortal
+# Wawe Portal
 
 https://app.buildspace.so/projects
 
